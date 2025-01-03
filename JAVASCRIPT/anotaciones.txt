@@ -1,0 +1,17 @@
+Click derecho en index.html y seleccionar opción "Open with Live Server"
+Click derecho -> Inspeccionar -> <script src="05-objetos/09-list-props.js"> -> Script -> Consola (Aqui se pueden ver los outputs)
+
+Shift + alt + tecla hacia abajo : Permite duplicar la linea en la que estas parado
+----------------------------------------------------------------------------------------------------------------------------
+VARIABLES 
+
+let variable = "Nombre de la variable";
+
+---------------------------------------------------------------------------------------------------------------------------
+TIPOS DE DATOS 
+
+PRIMITIVOS -> se copian cuando los pasamos a otras variables
+Number, String, Boolean, Undefined, Null
+
+DE REFERENCIA -> se referencian
+Array, Object, Functions, Clases 
